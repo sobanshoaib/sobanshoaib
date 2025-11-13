@@ -1,7 +1,7 @@
 # 👊About Me:
 4th year Computer Science student at the University of Alberta.
 
-Currently working on an iOS application called GestureFlow (an ASL alphabet detector),
+Currently working on an iOS application called GestureFlow (an ASL alphabet detector)
 and learning the programming language Rust.
 
 
