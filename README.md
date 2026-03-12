@@ -1,8 +1,7 @@
 # 👊About Me:
 4th year Computer Science student at the University of Alberta.
 
-Currently working on completing 100 Days of SwiftUI
-and learning the programming language Rust.
+Currently working on completing 100 Days of SwiftUI, learning the programming language Rust, and taking an OS and Software Testing course at the UofA.
 
 
 # 💻 Tech Stack:
