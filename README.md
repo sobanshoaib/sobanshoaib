@@ -1,7 +1,7 @@
 # 👊About Me:
 4th year Computer Science student at the University of Alberta.
 
-Currently working on completing 100 Days of SwiftUI, learning the programming language Rust, and taking an OS and Software Testing course at the UofA.
+Currently working at Brilliant Harvest as an Associate Software Developer, learning the language Rust, and developing FixItCity.
 
 
 # 💻 Tech Stack:
