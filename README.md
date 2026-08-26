@@ -1,5 +1,5 @@
 # 👊About Me:
-4th year Computer Science student at the University of Alberta.
+5th year Computer Science student at the University of Alberta.
 
 Currently working at Brilliant Harvest as an Associate Software Developer, learning the language Rust, and developing FixItCity.
 
